@@ -1,0 +1,23 @@
+{
+  "updated": "05-07-2025 01:18 AM",
+  "gold": {
+    "24k": "Rs. 14,300/g",
+    "22k": "Rs. 13,200/g",
+    "change": "+1.2%"
+  },
+  "forex": {
+    "interbank": "Rs. 278.50",
+    "open_market": "Rs. 283.90",
+    "change": "-0.45%"
+  },
+  "crypto": {
+    "btc": "$62,150",
+    "eth": "$3,120",
+    "xrp": "$0.72"
+  },
+  "petrol": {
+    "petrol": "Rs. 265.00/ltr",
+    "diesel": "Rs. 275.00/ltr",
+    "change": "+0.35%"
+  }
+}
